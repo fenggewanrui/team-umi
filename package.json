@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "start": "npx umi dev",
+    "build": "npx umi build"
+  },
   "devDependencies": {
     "@umijs/preset-react": "^1.5.1"
   },
